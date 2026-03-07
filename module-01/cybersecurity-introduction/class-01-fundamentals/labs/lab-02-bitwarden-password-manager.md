@@ -48,7 +48,7 @@ The objective was to understand how password managers store credentials securely
 
 Completed
 
---
+---
 
 Tools Used
 
