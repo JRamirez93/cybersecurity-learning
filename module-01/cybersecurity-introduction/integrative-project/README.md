@@ -27,9 +27,9 @@ The implementation is documented progressively as the project advances.
 |------|-------------|-------|
 | Stage 1 | User account security and password policies | Completed |
 | Stage 2 | Risk management and asset analysis | Completed |
-| Stage 3 | Security configuration and controls | Planned |
-| Stage 4 | Security monitoring and auditing | Planned |
-| Stage 5 | Final security evaluation and improvements | Planned |
+| Stage 3 | Security configuration and controls | Completed |
+| Stage 4 | Security monitoring and auditing | Completed |
+| Stage 5 | Final security evaluation and improvements | Completed |
 
 The full implementation and steps performed are documented in:
 
