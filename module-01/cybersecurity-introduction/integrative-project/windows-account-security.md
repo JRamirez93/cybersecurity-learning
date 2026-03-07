@@ -139,115 +139,103 @@ Stage 1 Completed
 
 ## Scenario
 
-TechSecure Solutions is a company specialized in providing cybersecurity solutions for enterprise clients.  
-The company offers a wide range of services including security audits, security policy consulting, firewall deployment, and intrusion detection systems.
+TechSecure Solutions is a company specialized in providing cybersecurity services to enterprise clients. The company offers services such as security audits, security policy consulting, firewall implementation, and intrusion detection systems.
 
-With a highly trained team that constantly updates its knowledge about emerging cyber threats, TechSecure Solutions has built a strong reputation in the cybersecurity market.
-
-The organization manages several critical assets that support its operations and must be properly protected.
+To support its operations, the organization manages multiple information assets including hardware, software, data, and personnel. Protecting these assets is critical to maintain business continuity and ensure information confidentiality, integrity, and availability.
 
 ---
 
 # Information Assets Identification
 
-The following information assets were identified within TechSecure Solutions.
+The following assets were identified within the organization.
 
-### Hardware
+## Hardware
 
-- Database servers (2 units)
-- Software development workstations (10 units)
-- Employee laptops and mobile devices
+- Servers
+- Desktop computers
+- Laptops
+- Network devices (routers, switches, firewalls)
+- Mobile devices
 
-### Software
+## Software
 
-- Security software used to protect systems and networks
-- Development tools and software environments
+- Operating systems
+- Productivity tools (Office Suite)
+- Security tools (antivirus, firewall)
+- Proprietary applications
 
-### Data
+## Data
 
-- Internal documentation and procedure manuals
-- Confidential client data stored in cloud services
-- Internal emails and communications
-- Contracts and commercial agreements
+- Confidential client information
+- Employee data
+- Internal documentation
+- Financial data
 
-### People
+## People
 
-- Software development team
-- Security consultants
-- System administrators
 - Company employees
+- Clients
+- Business partners
 
 ---
 
-# Identified Cybersecurity Risks
+# Cybersecurity Risk Assessment
 
-Several risks were identified based on the assets listed above.
+The following table identifies potential threats associated with each asset and evaluates the probability and impact of those threats.
 
-Each risk considers potential threats, probability of occurrence, and the possible impact on the organization.
-
-Examples of potential threats include:
-
-- Unauthorized access
-- Data breaches
-- Malware infections
-- Phishing attacks
-- Data loss or corruption
-- Insider threats
-
----
-
-# Risk Assessment Table
-
-| Asset | Potential Threats | Probability (1–5) | Impact (1–5) | Qualitative Risk | Quantitative Risk |
+| Asset | Potential Threat | Probability (1-5) | Impact (1-5) | Qualitative Risk | Quantitative Risk |
 |------|------------------|------------------|-------------|-----------------|------------------|
-| Database Servers | Unauthorized access, ransomware attack | 3 | 5 | High | 15 |
-| Development Workstations | Malware infection, compromised developer credentials | 4 | 4 | High | 16 |
-| Internal Documentation | Unauthorized access or accidental data leakage | 2 | 3 | Medium | 6 |
-| Client Data in Cloud | Data breach, misconfigured cloud permissions | 3 | 5 | High | 15 |
-| Email and Internal Communications | Phishing attacks, email compromise | 4 | 3 | Medium | 12 |
-| Security Software | Misconfiguration, vulnerability exploitation | 2 | 4 | Medium | 8 |
-| Employee Devices | Device theft, malware infection | 3 | 3 | Medium | 9 |
-| Contracts and Agreements | Unauthorized access or data exposure | 2 | 4 | Medium | 8 |
+| Servers | Distributed Denial of Service (DDoS) attack | 4 | 5 | High | 20 |
+| Desktop Computers | Malware infection | 3 | 4 | Moderate | 12 |
+| Laptops | Theft or loss | 2 | 4 | Low | 8 |
+| Network Devices | Traffic interception | 3 | 4 | Moderate | 12 |
+| Mobile Devices | Unauthorized access | 3 | 4 | Moderate | 12 |
+| Operating Systems | Security vulnerabilities | 4 | 5 | High | 20 |
+| Productivity Tools | Phishing attacks | 3 | 3 | Moderate | 9 |
+| Security Tools | Misconfiguration or failed updates | 2 | 5 | Moderate | 10 |
+| Proprietary Applications | Data leakage | 3 | 5 | High | 15 |
+| Confidential Client Information | Unauthorized access | 4 | 5 | High | 20 |
+| Employee Data | Phishing attacks | 3 | 4 | Moderate | 12 |
+| Internal Documentation | Unauthorized access | 3 | 3 | Moderate | 9 |
+| Financial Data | Malware infection | 4 | 5 | High | 20 |
 
 ---
 
-# Risk Evaluation Method
+# Risk Calculation Method
 
-The quantitative risk value is calculated using the formula:
+The quantitative risk value was calculated using the following formula:
 
 Risk = Probability × Impact
 
 Where:
 
-- **Probability** is rated from 1 (Very Low) to 5 (Very High)
-- **Impact** is rated from 1 (Low) to 5 (Critical)
+- Probability is rated from **1 (Very Low)** to **5 (Very High)**
+- Impact is rated from **1 (Low)** to **5 (Critical)**
 
-The qualitative risk level is interpreted based on the resulting score.
-
-Example interpretation:
-
-| Score | Risk Level |
-|------|-------------|
-| 1–5 | Low |
-| 6–10 | Medium |
-| 11–15 | High |
-| 16–25 | Critical |
+This approach allows prioritization of security risks based on their potential effect on the organization.
 
 ---
 
-# Conclusion
+# Conclusions
 
-The risk assessment identified several high-priority risks related to sensitive data, development systems, and communication channels.
+The analysis identified several cybersecurity risks affecting the information assets of TechSecure Solutions.
 
-Proper risk management requires implementing additional security measures such as:
+The most critical risks are associated with:
 
-- Access control policies
-- Endpoint protection
+- Operating system vulnerabilities
+- Confidential client information
+- Financial data
+- Server infrastructure
+
+These risks present high impact levels and therefore require mitigation strategies such as:
+
+- Strong access control policies
+- Endpoint protection and monitoring
 - Security awareness training
-- Regular security audits
-- Monitoring and logging systems
+- Regular system updates and patch management
+- Security audits and monitoring mechanisms
 
-These measures will help reduce the probability and impact of potential cybersecurity incidents.
+Implementing these measures helps reduce both the probability and impact of potential cyber threats.
 
 ---
 
