@@ -1,1 +1,156 @@
+# Cybersecurity Fundamentals
+
+This repository documents my learning journey in **Cybersecurity Fundamentals**.
+It contains **notes, labs, and practical exercises** for each class in the course.
+
+The goal of this repository is to build a **structured knowledge base and practical portfolio** while studying cybersecurity.
+
+---
+
+# Course Structure
+
+## Class 1 – Cybersecurity Fundamentals
+
+Topics covered:
+
+* Cybersecurity vs Security
+* Areas of Information Security
+* Cybersecurity State 2024
+* Security Certifications
+* CIA Triad
+* Authentication and Authorization
+* Authentication Concepts
+* Identity Verification
+* Password Best Practices
+* Principle of Least Privilege
+* Non-Repudiation
+* Implicit Deny
+* Legal and Regulatory Issues
+* Due Care and Due Diligence
+* Information Security Governance
+
+---
+
+## Class 2 – Risk Management
+
+Topics covered:
+
+* Assets, Threats, Vulnerabilities, and Risks
+* Risk Management
+* Risk Assessment
+* Risk Response Categories
+* Risk Management Process
+* Exploring Risks and Threats
+* Risk Approaches
+* Attack Surface
+* Asset Classification
+* Asset Lifecycle
+* Data Retention
+
+---
+
+## Class 3 – Audit and Control
+
+Topics covered:
+
+* Physical Access Control
+* Logical Access Control
+* Access Control Models
+* MAC and DAC
+* RBAC and ABAC
+* IT Auditing
+* Audit Objectives
+* Internal Audits
+* External Audits
+* Role of the Auditor
+* Audit Evidence
+* Audit Documentation and Reports
+* Audit Frameworks
+
+---
+
+## Class 4 – Security Threats
+
+Topics covered:
+
+* Threats and Vulnerabilities
+* Malware, Viruses, and Worms
+* Ransomware and Trojans
+* Logic Bombs
+* Rootkits
+* Zero-Day Attacks
+* Social Engineering
+* Email Spam and Spoofing
+* Phishing and Pharming
+* DoS and DDoS Attacks
+* Backdoors and Replay Attacks
+* Web Attacks
+* Remote Code Execution (RCE)
+* SQL Injection and XSS
+
+---
+
+## Class 5 – Security Threats (Extended)
+
+Advanced exploration of security threats and attack techniques:
+
+* Threats and Vulnerabilities
+* Malware, Viruses, and Worms
+* Ransomware and Trojans
+* Logic Bombs
+* Rootkits
+* Zero-Day Attacks
+* Social Engineering
+* Email Spam and Spoofing
+* Phishing and Pharming
+* DoS and DDoS Attacks
+* Backdoors and Replay Attacks
+* Web Attacks
+* Remote Code Execution (RCE)
+* SQL Injection and XSS
+
+---
+
+# Repository Structure
+
+```
+cybersecurity-fundamentals/
+│
+├── class-01-fundamentals/
+│   ├── notes.md
+│   └── labs/
+│
+├── class-02-risk-management/
+│   ├── notes.md
+│   └── labs/
+│
+├── class-03-audit-control/
+│   ├── notes.md
+│   └── labs/
+│
+├── class-04-security-threats/
+│   ├── notes.md
+│   └── labs/
+│
+└── class-05-security-threats-advanced/
+    ├── notes.md
+    └── labs/
+```
+
+---
+
+# Learning Goals
+
+* Build a solid foundation in cybersecurity.
+* Understand modern threats and defensive strategies.
+* Practice risk management and auditing concepts.
+* Develop hands-on labs and real-world security exercises.
+
+---
+
+# Progress
+
+Course Status: **In Progress**
+
+Labs and notes will be continuously added as I progress through the course.
 
