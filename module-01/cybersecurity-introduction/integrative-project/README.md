@@ -1,15 +1,16 @@
 # Integrative Project – Windows Account Security
 
-This project documents the implementation of security measures for user accounts on a Windows 10 system.
+This project documents the implementation of security measures for user accounts and information security practices on a Windows 10 environment.
 
-The project is developed progressively throughout the course, and each stage expands the previous configuration by applying additional security controls.
+The project is developed progressively throughout the course. Each stage corresponds to a class and expands the previous work by introducing additional cybersecurity concepts and configurations.
 
 ## Goals
 
 * Implement secure user account management
 * Apply password security policies
-* Verify account and password security using Windows system tools
-* Introduce basic credential management practices
+* Identify and evaluate cybersecurity risks
+* Use Windows system tools to verify security configurations
+* Develop a basic security management approach
 
 ## Environment
 
@@ -25,8 +26,10 @@ The implementation is documented progressively as the project advances.
 | Stage | Description | Status |
 |------|-------------|-------|
 | Stage 1 | User account security and password policies | Completed |
-| Stage 2 | Security policy hardening | Planned |
-| Stage 3 | Audit logs and monitoring | Planned |
+| Stage 2 | Risk management and asset analysis | Completed |
+| Stage 3 | Security configuration and controls | Planned |
+| Stage 4 | Security monitoring and auditing | Planned |
+| Stage 5 | Final security evaluation and improvements | Planned |
 
 The full implementation and steps performed are documented in:
 
