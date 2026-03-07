@@ -52,4 +52,4 @@ Completed
 
 ## Tools Used
 
-Bitwarden
+ - Bitwarden
