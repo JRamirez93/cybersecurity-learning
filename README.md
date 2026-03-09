@@ -15,6 +15,21 @@ This project is currently **under development**, and the modules will be progres
 
 ---
 
+# Table of Contents
+
+- [Repository Goals](#repository-goals)
+- [Learning Roadmap](#learning-roadmap)
+- [Module Overview](#module-overview)
+  - [Module 1 — Infrastructure Fundamentals](#module-1--infrastructure-fundamentals-noc-foundation)
+  - [Module 2 — SOC Entry](#module-2--soc-entry-blue-team-fundamentals)
+  - [Module 3 — Professional Blue Team](#module-3--professional-blue-team)
+  - [Module 4 — Red Team Foundations](#module-4--red-team-foundations)
+  - [Module 5 — Advanced Pentesting](#module-5--advanced-pentesting)
+- [Repository Structure](#repository-structure)
+- [Project Status](#project-status)
+
+---
+
 # Repository Goals
 
 - Document my technical progress in infrastructure and cybersecurity.
@@ -42,26 +57,38 @@ This project is currently **under development**, and the modules will be progres
 
 Objective: understand the fundamentals of operating systems, networking, and security.
 
-Contents:
+### Course Modules
 
-- Introduction to Linux
-- Introduction to Networking
-- Introduction to Cybersecurity
-- Linux Operator
-- Introduction to Python
-- Linux System Administration
+- [Cybersecurity Introduction](Module-1-Infrastructure-Fundamentals/cybersecurity-introduction)
+- [HTTPS Protocol](Module-1-Infrastructure-Fundamentals/https-protocol)
+- [Linux Introduction](Module-1-Infrastructure-Fundamentals/linux-introduction)
+- [Linux Operator](Module-1-Infrastructure-Fundamentals/linux-operator)
+- [Linux System Administration](Module-1-Infrastructure-Fundamentals/linux-sysadmin)
+- [Networking Introduction](Module-1-Infrastructure-Fundamentals/networking-introduction)
+- [Python Introduction](Module-1-Infrastructure-Fundamentals/python-introduction)
 
-Possible professional roles after completing this module:
+### Hands-On Labs
+
+- KeePass Password Manager
+- Bitwarden Password Manager
+
+### Skills Developed
+
+- Linux fundamentals
+- networking basics
+- system administration basics
+- cybersecurity foundations
+
+### Possible Professional Roles
 
 - NOC Operator
 - IT Monitoring
 - Infrastructure Support
 
 Current status: **In Progress**
-
 ---
 
-## Module 2 — SOC Entry (Blue Team Fundamentals)
+## Module 2 — SOC Entry
 
 Objective: learn security monitoring and incident detection.
 
