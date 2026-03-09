@@ -16,8 +16,8 @@ From the KeePass interface, select the option to **create a new password databas
 
 The application will then display a confirmation prompt indicating that a new encrypted database will be created.
 
-![Create KeePass Database](../screenshots/lab1/Step1.png)
-![Configure Master Password](../screenshots/lab1/Step2.png)
+![Create KeePass Database](cybersecurity-learning/Module-1-Infrastructure-Fundamentals/cybersecurity-introduction/class-01-fundamentals/labs/screenshots/lab1/Step1.png)
+![Configure Master Password](cybersecurity-learning/Module-1-Infrastructure-Fundamentals/cybersecurity-introduction/class-01-fundamentals/labs/screenshots/lab1/Step2.png)
 ---
 
 ### Step 2 – Configure Master Password
