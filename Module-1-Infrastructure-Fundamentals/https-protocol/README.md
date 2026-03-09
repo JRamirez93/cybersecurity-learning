@@ -42,8 +42,9 @@ Web servers use digital certificates issued by trusted Certificate Authorities t
 
 # Certification
 
-The certificate of completion is available in the **certification** folder of this repository.
+Course Provider: EducaciónIT  
+Completion Date: December 29, 2024  
 
-Course Provider: EducaciónIT
-Completion Date: December 29, 2024
+![HTTPS Certification](./certification/Certificado-Protocolo-HTTPS-EducaciónIT.png)
 
+*The above image displays the certification obtained after completing the course.*
