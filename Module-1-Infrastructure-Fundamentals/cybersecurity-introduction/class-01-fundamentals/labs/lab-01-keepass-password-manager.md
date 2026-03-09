@@ -16,15 +16,15 @@ From the KeePass interface, select the option to **create a new password databas
 
 The application will then display a confirmation prompt indicating that a new encrypted database will be created.
 
-![Create KeePass Database](../screenshots/lab1/Step1.png)
-![Configure Master Password](../screenshots/lab1/Step2.png)
+![Create KeePass Database](screenshots/lab1/Step1.png)
+![Create KeePass Database](screenshots/lab1/Step2.png)
 ---
 
 ### Step 2 – Configure Master Password
 
 A strong master password was configured to protect the database.
 
-![Add Credential Entries](../screenshots/lab1/Step3.png)
+![Create KeePass Database](screenshots/lab1/Step3.png)
 
 ---
 
@@ -32,7 +32,7 @@ A strong master password was configured to protect the database.
 
 Create a new credential entry and fill in the required fields such as username, password, and notes.
 
-![Step 3 - New Entry](../screenshots/lab1/Step4.png)
+![Create KeePass Database](screenshots/lab1/Step4.png)
 
 ---
 
@@ -40,7 +40,7 @@ Create a new credential entry and fill in the required fields such as username, 
 
 The database now contains the stored credentials which can be accessed securely using the master password.
 
-![Step 4 - Final Result](../screenshots/lab1/Step5.png)
+![Create KeePass Database](screenshots/lab1/Step5.png)
 
 ---
 
@@ -58,7 +58,7 @@ The database now contains the stored credentials which can be accessed securely 
 | Service         | Username                                    |
 | --------------- | ------------------------------------------- |
 | Email Test      | user@example.com |
-| Web Account     | test_user                                   |
+| Web Account     | www.example.com                                |
 | Internal System | admin_test                                  |
 
 ---
