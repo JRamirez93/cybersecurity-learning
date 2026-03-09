@@ -146,18 +146,59 @@ After completing this module I should be able to:
 
 Hands-on labs performed during this course:
 
-- **Class 1 Labs – Password Manager Implementation**
-  - **KeePass** – local password manager to securely store credentials.
-  - **Bitwarden** – cloud-based password manager to manage credentials across devices.
+### Class 1 – Credential Security
 
-- **Class 2 Labs – Risk Management**
-  - **Asset Identification and Classification Lab** – creating asset inventories and classification matrices.
-  - **Qualitative Risk Assessment Lab** – performing qualitative risk assessments using probability and impact tables.
+- **KeePass** – local password manager used to securely store credentials.
+- **Bitwarden** – cloud-based password manager used for cross-device credential management.
 
-These labs simulate **real-world security practices**:
+These labs introduce **secure credential storage and password management best practices**.
 
-- Credential management (Class 1)
-- Asset management and risk evaluation (Class 2)
+---
+
+### Class 2 – Risk Management
+
+- **Asset Identification and Classification** – creation of asset inventories and classification matrices.
+- **Qualitative Risk Assessment** – evaluation of risks using probability and impact tables.
+
+These exercises simulate **real-world asset management and risk evaluation processes**.
+
+---
+
+### Class 3 – Audit and Access Control
+
+- **Windows Command Line (`net user`)** – used to audit local user accounts and review password-related information.
+- **Windows Access Control Lists (ACL)** – configuration of permissions to control access to files and folders.
+
+These labs simulate **basic security auditing tasks and permission management in Windows environments**.
+
+---
+
+### Class 4 – Security Threat Analysis
+
+- **Phishing Awareness Quiz** – identification of phishing attempts by analyzing message indicators.
+- **PhishTank** – open community platform used to search, analyze, and report phishing websites.
+- **Browser Phishing Filters** – verification of how modern browsers detect and block malicious sites.
+
+These exercises focus on **recognizing phishing attempts and analyzing malicious websites**.
+
+---
+
+### Class 5 – Security Operations and Threat Intelligence
+
+- **BCP (Business Continuity Plan)** – planning strategies to maintain business operations during disruptions.
+- **DRP (Disaster Recovery Plan)** – procedures to restore systems and data after major incidents.
+- **Business Impact Analysis (BIA)** – evaluation of the operational impact of service interruptions.
+- **Passive Fingerprinting with Search Engines**
+  - **Shodan**
+  - **ZoomEye**
+
+Using advanced search operators (**security dorks**) to identify:
+
+- IP cameras exposed on the internet
+- WordPress websites
+- publicly accessible services
+
+These labs simulate **basic security operations center (SOC) tasks and passive reconnaissance techniques**.
 ---
 
 # Integrative Project
