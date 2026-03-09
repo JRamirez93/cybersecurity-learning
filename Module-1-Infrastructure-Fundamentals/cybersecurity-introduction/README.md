@@ -8,7 +8,7 @@ The goal of this module is to understand the **fundamental concepts of informati
 
 # Course Structure
 
-The course is divided into five main classes covering the fundamentals of cybersecurity. Each class includes detailed notes (`notes.md`) and, when applicable, hands-on labs.
+The course is divided into five main classes covering the fundamentals of cybersecurity. Each class includes detailed notes and, when applicable, hands-on labs.
 
 ---
 
