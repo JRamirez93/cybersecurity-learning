@@ -8,7 +8,7 @@ The goal of this module is to understand the **fundamental concepts of informati
 
 # Course Structure
 
-The course is divided into five main classes covering the fundamentals of cybersecurity.
+The course is divided into five main classes covering the fundamentals of cybersecurity. Each class includes detailed notes (`notes.md`) and, when applicable, hands-on labs.
 
 ---
 
@@ -34,12 +34,7 @@ Topics covered:
 
 Notes:
 
-- [Class Notes](class-01-fundamentals/notes.md)
-
-Labs:
-
-- [KeePass Password Manager Lab](class-01-fundamentals/labs/lab-01-keepass-password-manager.md)
-- [Bitwarden Password Manager Lab](class-01-fundamentals/labs/lab-02-bitwarden-password-manager.md)
+- [Class 1 Notes](class-01-fundamentals/notes.md)
 
 ---
 
@@ -59,6 +54,10 @@ Topics covered:
 - Asset Lifecycle
 - Data Retention
 
+Notes:
+
+- [Class 2 Notes](class-02-riskmanagement/notes.md)
+
 ---
 
 # Class 3 — Audit and Control
@@ -67,17 +66,18 @@ Topics covered:
 
 - Physical Access Control
 - Logical Access Control
-- Access Control Models
-- MAC and DAC
-- RBAC and ABAC
+- Access Control Models (MAC, DAC, RBAC, ABAC)
 - IT Auditing
 - Audit Objectives
-- Internal Audits
-- External Audits
+- Internal and External Audits
 - Audit Roles
 - Audit Evidence
 - Audit Documents and Reports
 - Audit Frameworks
+
+Notes:
+
+- [Class 3 Notes](class-03-audit-control/notes.md)
 
 ---
 
@@ -86,7 +86,7 @@ Topics covered:
 Topics covered:
 
 - Threats and Vulnerabilities
-- Malware, Viruses and Worms
+- Malware, Viruses, and Worms
 - Ransomware and Trojans
 - Logic Bombs
 - Rootkits
@@ -99,6 +99,10 @@ Topics covered:
 - Web Attacks
 - Remote Code Execution (RCE)
 - SQL Injection and XSS
+
+Notes:
+
+- [Class 4 Notes](class-04-security-threats/notes.md)
 
 ---
 
@@ -120,6 +124,10 @@ Topics covered:
 - Purple Team
 - Security Operations Center (SOC)
 
+Notes:
+
+- [Class 5 Notes](class-05-soc/notes.md)
+
 ---
 
 # Learning Objectives
@@ -138,7 +146,21 @@ After completing this module I should be able to:
 
 Hands-on labs performed during this course:
 
-- Password manager implementation with **KeePass**
-- Password manager implementation with **Bitwarden**
+- **Class 1 Labs – Password Manager Implementation**
+  - **KeePass** – local password manager to securely store credentials.
+  - **Bitwarden** – cloud-based password manager to manage credentials across devices.
 
-These labs simulate **real-world security practices for credential management**.
+- **Class 2 Labs – Risk Management**
+  - **Asset Identification and Classification Lab** – creating asset inventories and classification matrices.
+  - **Qualitative Risk Assessment Lab** – performing qualitative risk assessments using probability and impact tables.
+
+These labs simulate **real-world security practices**:
+
+- Credential management (Class 1)
+- Asset management and risk evaluation (Class 2)
+---
+
+# Integrative Project
+
+- The module includes an **integrative project** combining exercises from all 5 classes.  
+- [Access the Integrative Project](integrative-project/cybersecurity-integrative-assessment.md)
