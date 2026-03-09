@@ -58,7 +58,7 @@ The database now contains the stored credentials which can be accessed securely 
 | Service         | Username                                    |
 | --------------- | ------------------------------------------- |
 | Email Test      | user@example.com |
-| Web Account     | test_user                                   |
+| Web Account     | www.example.com                                |
 | Internal System | admin_test                                  |
 
 ---
