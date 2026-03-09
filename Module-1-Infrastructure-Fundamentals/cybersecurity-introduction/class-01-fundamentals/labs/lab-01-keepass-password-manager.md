@@ -73,7 +73,7 @@ The database now contains the stored credentials which can be accessed securely 
 
 ## Status
 
-Completed
+ - Completed
 
 ---
 
